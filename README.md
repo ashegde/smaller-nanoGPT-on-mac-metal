@@ -2,7 +2,7 @@ In these scripts, we train a simple nanoGPT model on the Tiny Shakespeare datase
 
 Some example generated text is as follows:
 
-`
+```
 PROGRAM:
 Hello world! planent give her bountess;
 His spoces which from selves my life,
@@ -51,6 +51,6 @@ Have chooler mother.
 
 LADY CAPULET:
 Why.
-`
+```
 
 Of course, this is not a great model, but we were at least able to prototype it locally and fairly quickly.
